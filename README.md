@@ -17,7 +17,7 @@
 
 ```
 
-mkdir LinearComponent
+mkdir <folder name>
 
 ```
 
